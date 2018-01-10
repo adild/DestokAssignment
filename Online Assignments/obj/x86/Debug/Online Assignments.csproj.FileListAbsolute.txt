@@ -1,0 +1,21 @@
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\bin\Debug\Online Assignments.exe.config
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\bin\Debug\OnlineAssDb .mdf
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\bin\Debug\OnlineAssDb _log.ldf
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\bin\Debug\Online Assignments.exe
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\bin\Debug\Online Assignments.pdb
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online Assignments.csprojResolveAssemblyReference.cache
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.Form1.resources
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.make_questions.resources
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.Properties.Resources.resources
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.Student_home.resources
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.Student_Login.resources
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.Student_Register.resources
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.Teacher_home.resources
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.Teacher_Login.resources
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.Teacher_Register.resources
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.write_answers.resources
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online Assignments.csproj.GenerateResource.Cache
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online Assignments.exe
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online Assignments.pdb
+C:\Users\Adil\documents\visual studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.track_students.resources
+C:\Users\Adil\Documents\Visual Studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online_Assignments.write_ans.resources

@@ -1,0 +1,3 @@
+C:\Users\Adil\Documents\Visual Studio 2010\Projects\Online Assignments\Online Assignments\bin\Debug\Online Assignments.exe.config
+C:\Users\Adil\Documents\Visual Studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online Assignments.exe
+C:\Users\Adil\Documents\Visual Studio 2010\Projects\Online Assignments\Online Assignments\obj\x86\Debug\Online Assignments.pdb
